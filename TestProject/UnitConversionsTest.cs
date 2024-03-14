@@ -158,6 +158,16 @@ public class UnitConversionsTest
     //     // Assert
     //     Assert.Equal(expected, actual);
     // }
+
+
+
+
+
+
+
+
+
+    // // PART 2 TESTS
     
     // [Fact]
     // public void IsApproximate_CanCheckNearEquality()
