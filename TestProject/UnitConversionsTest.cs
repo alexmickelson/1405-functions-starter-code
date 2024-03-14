@@ -1,9 +1,7 @@
 namespace TestProject;
 
-public class UnitTest1
+public class UnitConversionsTest
 {
-
-
     [Fact]
     public void InchesToCentimeters_WorksWithOne()
     {
