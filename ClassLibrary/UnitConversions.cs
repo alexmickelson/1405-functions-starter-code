@@ -1,4 +1,5 @@
-﻿
+﻿namespace MyCodeNamespace;
+
 public static class UnitConversions
 {
 

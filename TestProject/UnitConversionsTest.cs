@@ -1,3 +1,6 @@
+using Xunit;
+using MyCodeNamespace;
+
 namespace TestProject;
 
 public class UnitConversionsTest
